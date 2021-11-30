@@ -1,0 +1,29 @@
+body {
+    background-image: url(images/midtown-atl.jpg);
+    font-family: "Montserrat", sans-serif;
+ 
+}
+
+img {
+    border: 5px solid;
+    border-radius: 30px;
+    height: 150px;
+    float: right;
+}
+
+a {
+    color:black;
+}
+
+.content {
+    background-color: white;
+}
+
+
+.paragraph {
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
